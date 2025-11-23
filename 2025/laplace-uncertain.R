@@ -1,3 +1,4 @@
+# Author: Kevin S. Van Horn
 
 weights_from_lik <- function(lik) {
   n <- length(lik)
